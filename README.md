@@ -1,3 +1,3 @@
 
 # chrono-blackhole-todo
-![alt text](image.png)
+![alt text](src\assets\chrono-blackhole.png)
