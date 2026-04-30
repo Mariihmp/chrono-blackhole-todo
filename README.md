@@ -1,3 +1,3 @@
+# Chrono-Blackhole Todo
 
-# chrono-blackhole-todo
-![alt text](src\assets\chrono-blackhole.png)
+![Chrono Blackhole Todo](./src/assets/chrono-blackhole.png)
